@@ -14,6 +14,7 @@ Welcome to the Roll The Dice web application! This simple game allows you to rol
 
 ## Preview
 
+![Roll The Dice](https://github.com/Umar-Ashraf09/Roll-The-Dice/assets/92431008/321dda74-9e57-457f-990f-5d2302a2d1cc)
 
 
 ## Technologies Used
